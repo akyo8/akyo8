@@ -1,5 +1,5 @@
 <h1 align="center">Welcome to My Profile</h1>
-<h3 align="center">Blockchain Guru - Solidity & Rust (EVM, Solana and CosmWasm</h3>
+<h3 align="center">Blockchain Guru - Solidity & Rust (EVM, Solana and CosmWasm)</h3>
 
 ## 🕵️‍♂️ About Me
 - 😎 Interested in contributing expertise in web and blockchain development
