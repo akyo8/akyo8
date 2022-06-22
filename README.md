@@ -1,16 +1,25 @@
-### Hi there 👋
+<h1 align="center">Welcome to My Profile</h1>
+<h3 align="center">Growing Full Stack Engineer</h3>
 
-<!--
-**akyo8/akyo8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🕵️‍♂️ About Me
+- 😎 Interested in contributing expertise in web and blockchain development
 
-Here are some ideas to get you started:
+- 👯 Looking to collaborate on **Innovative Projects**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 Enjoy contributing to Open Source Projects and eager to learn new technologies. 
+
+- 📚 Love reading books on personal development & financial literacy. 
+
+- 💬 Ask me about Web and Blockchain.
+
+- ⚡ Quotes: *Any fool can write code that a computer can understand. Good programmers write code that humans can understand.*
+
+## 🚀 Achievements
+- ⭐ Contributed to Many Projects (Gamerse Network, Demons World, Paid Network, Cream Finance)
+
+- 👨‍🎓 Bachelor's Degree in Computer Science
+
+## 🔗 Links
+
+[![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/akyo8)
+[![telegram](https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/akyo8)
