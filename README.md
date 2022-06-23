@@ -12,7 +12,7 @@
 
 - 💬 Ask me about Web and Blockchain.
 
-- ⚡ Quotes: *Any fool can write code that a computer can understand. Good programmers write code that humans can understand.*
+- ⚡ Quotes: *The Buck Stops Here!*
 
 ## 🚀 Achievements
 - ⭐ Contributed to Many Projects (FIO Protocol, Panther Protocol, Gamerse Network, Demons World, Paid Network, Cream Finance)
