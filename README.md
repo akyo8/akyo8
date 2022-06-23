@@ -15,7 +15,7 @@
 - ⚡ Quotes: *Any fool can write code that a computer can understand. Good programmers write code that humans can understand.*
 
 ## 🚀 Achievements
-- ⭐ Contributed to Many Projects (Gamerse Network, Demons World, Paid Network, Cream Finance)
+- ⭐ Contributed to Many Projects (FIO Protocol, Panther Protocol, Gamerse Network, Demons World, Paid Network, Cream Finance)
 
 - 👨‍🎓 Bachelor's Degree in Computer Science
 
